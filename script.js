@@ -1,5 +1,5 @@
 const animatedElements = document.querySelectorAll(
-  ".about-content, .skill-card"
+  ".about-content, .skill-card, .project-card"
 );
 
 const observer = new IntersectionObserver(
